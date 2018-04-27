@@ -1,4 +1,4 @@
-'@Author Steven Skedge www.opencastsoftware.com
+'@Author Steven Skedge
 'Some content researched from external sources 
 'Date July 2016
 'PUT
