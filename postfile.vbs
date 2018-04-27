@@ -1,4 +1,4 @@
-'@Author Steven Skedge www.opencastsoftware.com
+'@Author Steven Skedge
 'Some content researched from external sources 
 'Date July 2016
 'POST
@@ -122,7 +122,7 @@ Public Function PostJSON (encodeArray)
   Set objHTTP = CreateObject("MSXML2.ServerXMLHTTP")
   
   'Url specific to the server 
-  URL = "https://jsonplaceholder.typicode.com/posts"
+URL = "<SERVERURL>"
   objHTTP.Open "POST", URL, False
   
   'Not all accurate header content, Script must match this shape
